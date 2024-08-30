@@ -2,7 +2,7 @@
 
 A beautifully designed and fully functional stopwatch application built using React. This application allows you to start, pause, and reset a timer with a user-friendly interface. The stopwatch is designed to be responsive, featuring custom buttons and a visually appealing layout to enhance user experience.
 
-### [Live Demo](https://stop-watch-mzqj28gop-faisal-khans-projects-3511e148.vercel.app/)
+### [Live Demo](https://stop-watch-delta-ochre.vercel.app/)
 
 ## Features
 
